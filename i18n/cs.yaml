@@ -1,0 +1,45 @@
+powered:
+  other: "powered by"
+
+theme:
+  other: "Téma"
+
+readMore:
+  other: "Číst více"
+
+toNewPosts:
+  other: "Nové články"
+
+toOldPosts:
+  other: "Starší články"
+
+tag:
+  other: "Tag"
+
+Tags:
+  other: "Tagy"
+
+Posts:
+  other: "Články"
+
+category:
+  other: "Kategorie"
+
+Categories:
+  other: "Kategorie"
+
+toAllTags:
+  other: "Všechny tagy"
+
+toAllCategories:
+  other: "Všechny kategorie"
+
+skipToContent:
+  other: "Přeskočit"
+
+darkTheme:
+  other: "Tmavý režim"
+
+lightTheme:
+  other: "Světlý režim"
+

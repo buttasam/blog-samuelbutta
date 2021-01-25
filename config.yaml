@@ -1,0 +1,34 @@
+languageCode: "cz-cs"
+DefaultContentLanguage: "cs"
+baseUrl: ""
+title: "blog.samuelbutta.cz"
+theme: "anubis"
+paginate: 10
+disqusShortname: yourdiscussshortname
+# googleAnalytics: UA-123-45
+enableRobotsTXT: true
+
+
+menu:
+  main:
+  - identifier: archive
+    name: Archive
+    title: Archive
+    url: /posts/
+    weight: 0
+
+privacy:
+  disqus:
+    disable: true
+
+params:
+  author: "Samuel Butta"
+  dateFormat: "2. 1. 2006"
+  paginationSinglePost: true
+  style: auto
+  readMore: false
+  
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # enable raw HTML in Markdown
