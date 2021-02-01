@@ -5,15 +5,15 @@ title: "blog.samuelbutta.cz"
 theme: "anubis"
 paginate: 10
 disqusShortname: yourdiscussshortname
-# googleAnalytics: UA-123-45
+googleAnalytics: UA-76159959-1
 enableRobotsTXT: true
 
 
 menu:
   main:
   - identifier: archive
-    name: Archive
-    title: Archive
+    name: Archiv
+    title: Archiv
     url: /posts/
     weight: 0
 
