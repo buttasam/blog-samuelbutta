@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>věda on blog.samuelbutta.cz</title>
+    <link>/tags/v%C4%9Bda/</link>
+    <description>blog.samuelbutta.cz (věda)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cz-cs</language>
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="/tags/v%C4%9Bda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Největší okno do vesmíru</title>
+      <link>/posts/square-kilometer-array/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/square-kilometer-array/</guid>
+      <description>&lt;p&gt;V následujících letech se doslova napříč celou Zemí postaví největší dalekohled do vesmíru. Jedná se síť radioteleskopů tvořící jeden celek nazvaný &lt;em&gt;Square kilometer array&lt;/em&gt;. Půjde o jednu z největších staveb člověka vůbec.&lt;/p&gt;
+&lt;p&gt;Výstavba bude problíhat v několika fázích, které budou stát miliardy euro. Na konci projektu, odhadem někdy okolo roko 2030, by SKA měl být zdalena největší radiový teleskop na světě s celkovou sběrnou plochou 1 kilometr čtverečný (jak název napovídá).&lt;/p&gt;
+&lt;p&gt;Téměř mimozemsky vypadající síť radiových přijímačů by se měla táhnout od Afriky přes Madagaskar, Austrálii až po Nový Zéland.
+Bude složena z tisíců tzv. &amp;ldquo;talířů&amp;rdquo; a milionů nízkofrekvenčních antén zachycujích radiový signál.
+&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Rozlišovací schopnost bude daleko překonávat všechny stávající teleskopy. Vzpomneňme si jaké úžasné objevy byly učiněny pomocí Hubblova teleskopu za dobu, co pozoroval oblohu a teď si představme, co za fascinující objevy nás v následujících letech čeká díky SKA, jehož rozlišení bude 50x větší než u Hubblova teleskopu.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Pozorovací schopnosti, které lidstvo získá jsou skoro až neuvěřitelné. Citlivost SKA bude tak vysoká, že by bylo možné detekovat běžný letištní radar na planetě vzdálené desítky světelných let.&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;SKA patří do kategorie radiových interferomenrů. To znamená, že soustava antén přijímající stejný signál tvoří v podstatě jenom velký teleskop. Kvůli rozdílné poloze přijímačů je signál na jednotlivých anténách přijatý v nepatrně odlišných časech. Výpočetně jsou pak jednotlivé signály složeny dohromady, což má za následek výrazné zvýšení rozlišovací schopnosti a odstranění šumu. &lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Do stejné kategorie patří také teleskop Event Horizon, který zachytil známý snímek černé hvězdy v centru galaxie M87.&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/SKA_overview.jpg&#34; alt=&#34;&#34;&gt;
+&lt;em&gt;Umělecké znázornění části SKA&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;radiové-vlny-pro-pozorání-vesmíru&#34;&gt;Radiové vlny pro pozorání vesmíru&lt;/h3&gt;
+&lt;p&gt;Lidský zrak (stejně jako všechny ostatní smysly) zachycují pouze určitou část reality. Lidské oko je schopné detekovat jenom relativně malou část ohromného spektra elektromagnetických vln s ne moc velkým rozlišením. Tuto část spektra chápeme jako světlo. Lidstvo se v posledních 150 letech naučilo využívat skoro celé spektrum. Od radiových vln, které běžně používáme ke komunikaci (radio, wi-fi, mobilní hovory) až po vysokoenergetické záření využívané například v medicíně.&lt;/p&gt;
+&lt;p&gt;Moderní astronomie se snaží na svět dívat ve všech spektrech. Díky tomu jsme schopní zjistit mnohem víc informací. Zajímavé je, že například světlo z nejvzdálenějších (jak v čase tak prostoru) objektů, které pozorujeme se nám díky rozpínání vermíru a rudému posuvu už ani nejsme schopní pozorovat v optické oblasti, ale v oblasti radiové. Další výhodou radiových vln je to, že neinteragují se zemskou atmosférou a můžeme vesmír pozorovat i když jsou zrovna mraky.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/observatories_across_spectrum_full.jpg&#34; alt=&#34;Example image&#34;&gt;
+&lt;em&gt;Ukázka technologií využívající různé části elektromagnetického spektra&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;cíle-projektu&#34;&gt;Cíle projektu&lt;/h3&gt;
+&lt;p&gt;Vědci si od nástroje jako je SKA slibují opravdu mnoho. Měli bychom být schopni pozorovat vznik a vývoj prvních hvěz a galaxií po velkém třesku. Díky pozorování rozložení vodíku v raném vesmíru mohli lépe pochopit co je tzv. Temná energie. Dále by SKA  mělo zaměřit na zmapování gigantických magetických polí ve vesmíru a zjisit, jakou hrají roli při formování hvězd a planet.
+V neposlední řadě budeme hledat stopy mimozemského života. Je tedy pravděpodobné, že v horizontu deseti let budeme svědky převratných objevů v astronomii.&lt;/p&gt;
+&lt;p&gt;Zajímavé na projektu je to, že aby mohl být úspěšný, podílí se na něm tisíce vědců a techniků z nejrůznějších oborů. Od teoretických fyziků, astronomů, přes počítačové experty až po brilantní konstruktéry.&lt;/p&gt;
+&lt;p&gt;Například na poli informatiky a techniky, SKA přináší výzvy ve zpracování ohromného toku dat. Součástí stavby budou dva superpočítače, jejichž výkone odpovídá nejvýkonějším počítačům světa (k roku 2018).&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;zajímavé-zdroje&#34;&gt;Zajímavé zdroje&lt;/h3&gt;
+&lt;p&gt;Fascinující simulace finální podoby SKA, díky které si lze lépe představit ohromný projektu.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/cJB5xfPTzsw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Přednáška Prof. Kulhánka o tom, co se na poli astronomie chystá v následujících letech. Povídání o SKA začíná v čase &lt;code&gt;8:35&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/mwQXDgsX-7g?start=515&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Přednáška Prof. Podolského o poselství elektromagnetických vln:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yVgvtSoMpbQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.skatelescope.org/the-ska-project/&#34;&gt;Webové stránky SKA - about project&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://theconversation.com/the-science-behind-the-square-kilometre-array-40870/&#34;&gt; https://theconversation.com/the-science-behind-the-square-kilometre-array-40870 &lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.skatelescope.org/outreachandeducation/outreach-resources/amazingfacts/&#34;&gt;Webové stránky SKA - amazing facts&lt;/a&gt; &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/_2EBCzyrqTA?t=788/&#34;&gt;Understanding Radio Telescopes: Dr John Morgan - video čas 13:08&lt;/a&gt; &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT/&#34;&gt;The Astrophysical Journal Letters - Focus on the First Event Horizon Telescope Results&lt;/a&gt; &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.skatelescope.org/software-and-computing/&#34;&gt;Webové stránky SKA - Software And Computing&lt;/a&gt; &lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

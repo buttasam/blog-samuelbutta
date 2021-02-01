@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+
+
+<html lang="cz-cs" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>technologie - blog.samuelbutta.cz</title>
+<meta name="description" content="">
+
+<link rel="alternate" type="application/rss+xml" href="/tags/technologie/index.xml" title="blog.samuelbutta.cz" />
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="favicon.png">
+
+
+
+    
+
+
+
+
+
+    
+    
+    
+
+    
+        <link rel="stylesheet" href="/css/style.cd267f2711fc8d550fa9b9004cd2dca13ae71d0b7af4aecb3c92e1e617996bef.css" integrity="sha256-zSZ/JxH8jVUPqbkATNLcoTrnHQt69K7LPJLh5heZa&#43;8=">
+    
+
+
+
+
+
+
+
+<meta property="og:title" content="technologie" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/tags/technologie/" />
+<meta property="og:updated_time" content="2021-01-26T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="technologie"/>
+<meta name="twitter:description" content=""/>
+
+
+
+
+
+
+
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Přeskočit</a>
+    <div class="container">
+        <header class="common-header"> 
+            
+                <h1 class="site-title">
+    <a href="/">blog.samuelbutta.cz</a>
+</h1>
+
+    <nav>
+        
+        
+        <a class="" href="/posts/" title="Archiv">Archiv</a>
+        
+    </nav>
+
+
+
+            
+        </header>
+        <main id="main" tabindex="-1"> 
+            
+    <h1>Tag: technologie</h1>
+    <div class="post-info">
+        <a href="/tags">Všechny tagy</a>
+    </div>
+    
+        <article class="post-list h-feed">
+    <header class="post-header">
+        <h1 class="p-name post-title draft"><a class="u-url" href="/posts/square-kilometer-array/">Největší okno do vesmíru</a></h1>
+    </header>
+
+    <div class="content post-summary p-summary">
+        <p>V následujících letech se doslova napříč celou Zemí postaví největší dalekohled do vesmíru. Jedná se síť radioteleskopů tvořící jeden celek nazvaný <em>Square kilometer array</em>. Půjde o jednu z největších staveb člověka vůbec.</p>
+    </div>
+    
+    
+    
+
+    
+
+
+<div class="post-info">
+    
+        <div class="post-date dt-published">26. 1. 2021</div>
+    
+    
+    <a class="post-hidden-url u-url" href="/posts/square-kilometer-array/">/posts/square-kilometer-array/</a>
+    <div class="post-hidden-author p-author">Samuel Butta</div>
+
+    <div class="post-taxonomies">
+        
+            
+                <ul class="post-tags">
+                    
+                        <li><a href="tags/v%C4%9Bda">#věda</a></li>
+                    
+                        <li><a href="tags/vesm%C3%ADr">#vesmír</a></li>
+                    
+                        <li><a href="tags/technologie">#technologie</a></li>
+                    
+                </ul>
+        
+    </div>
+</div>
+
+</article>
+    
+    
+
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p>© Samuel Butta, 2021<br>
+            Powered by <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, Theme <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.
+            </p>  
+        </div> 
+
+        
+
+    
+
+
+
+    <button class="theme-switcher">
+        Tmavý režim
+    </button>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "auto"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Světlý režim" : "Tmavý režim"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+   
+    </div>
+
+    <p class="h-card vcard">
+
+    <a href= class="p-name u-url url fn" rel="me">Samuel Butta</a> 
+
+    
+
+    
+</p> 
+    
+</footer>
+
+        
+    </div>
+</body>
+</html>
